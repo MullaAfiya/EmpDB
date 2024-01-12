@@ -1,0 +1,88 @@
+12-01-2024 18:58:36	This log contains information about the import schema operation into project 'EmpDB' on computer 'DESKTOP-JH9JP1C' by user 'Afiya'.
+12-01-2024 18:58:36	Import of database schema has started.
+12-01-2024 18:58:44	Gathering database credentials
+12-01-2024 18:58:44	Gathering database options
+12-01-2024 18:58:44	Gathering generic database scoped configuration option
+12-01-2024 18:58:44	Gathering users
+12-01-2024 18:58:44	Gathering roles
+12-01-2024 18:58:44	Gathering application roles
+12-01-2024 18:58:44	Gathering role memberships
+12-01-2024 18:58:44	Gathering filegroups
+12-01-2024 18:58:44	Gathering full-text catalogs
+12-01-2024 18:58:44	Gathering assemblies
+12-01-2024 18:58:44	Gathering certificates
+12-01-2024 18:58:44	Gathering asymmetric keys
+12-01-2024 18:58:44	Gathering symmetric keys
+12-01-2024 18:58:44	Gathering encrypted symmetric keys
+12-01-2024 18:58:44	Gathering schemas
+12-01-2024 18:58:44	Gathering XML schema collections
+12-01-2024 18:58:44	Gathering user-defined data types
+12-01-2024 18:58:44	Gathering user-defined types
+12-01-2024 18:58:44	Gathering table types
+12-01-2024 18:58:44	Gathering unique keys for table types
+12-01-2024 18:58:44	Gathering primary keys for table types
+12-01-2024 18:58:44	Gathering indexes for table types
+12-01-2024 18:58:44	Gathering check constraints for table types
+12-01-2024 18:58:44	Gathering default constraints for table types
+12-01-2024 18:58:44	Gathering partition functions
+12-01-2024 18:58:44	Gathering partition schemes
+12-01-2024 18:58:44	Gathering functions
+12-01-2024 18:58:44	Gathering encrypted functions
+12-01-2024 18:58:44	Gathering aggregates
+12-01-2024 18:58:44	Gathering procedures
+12-01-2024 18:58:44	Gathering encrypted procedures
+12-01-2024 18:58:44	Gathering tables
+12-01-2024 18:58:44	Gathering primary keys
+12-01-2024 18:58:44	Gathering unique constraints
+12-01-2024 18:58:44	Gathering foreign keys
+12-01-2024 18:58:44	Gathering default constraints
+12-01-2024 18:58:44	Gathering check constraints
+12-01-2024 18:58:44	Gathering views
+12-01-2024 18:58:44	Gathering encrypted views
+12-01-2024 18:58:44	Gathering indexes
+12-01-2024 18:58:44	Gathering statistics
+12-01-2024 18:58:44	Gathering full-text index stoplists
+12-01-2024 18:58:44	Gathering search property lists
+12-01-2024 18:58:44	Gathering search properties
+12-01-2024 18:58:44	Gathering full-text indexes
+12-01-2024 18:58:44	Gathering column store indexes
+12-01-2024 18:58:44	Gathering spatial indexes
+12-01-2024 18:58:44	Gathering XML indexes
+12-01-2024 18:58:44	Gathering Selective XML indexes
+12-01-2024 18:58:44	Gathering encrypted triggers
+12-01-2024 18:58:44	Gathering triggers
+12-01-2024 18:58:44	Gathering encrypted and clr ddl triggers
+12-01-2024 18:58:44	Gathering ddl triggers
+12-01-2024 18:58:44	Creating edge constraints
+12-01-2024 18:58:44	Gathering synonyms
+12-01-2024 18:58:44	Gathering defaults
+12-01-2024 18:58:44	Gathering data constraint uddt bindings
+12-01-2024 18:58:44	Gathering rules
+12-01-2024 18:58:44	Gathering data constraint uddt bindings
+12-01-2024 18:58:44	Gathering message types
+12-01-2024 18:58:44	Gathering queues
+12-01-2024 18:58:44	Gathering contracts
+12-01-2024 18:58:44	Gathering services
+12-01-2024 18:58:44	Gathering event notifications
+12-01-2024 18:58:44	Gathering remote service bindings
+12-01-2024 18:58:44	Gathering broker priorities
+12-01-2024 18:58:44	Gathering signatures
+12-01-2024 18:58:44	Gathering compression options
+12-01-2024 18:58:44	Gathering sequence types
+12-01-2024 18:58:44	Gathering security policies
+12-01-2024 18:58:44	Gather column encryption keys
+12-01-2024 18:58:44	Gathering column master keys
+12-01-2024 18:58:44	Gathering external data sources
+12-01-2024 18:58:44	Gathering external file formats
+12-01-2024 18:58:44	Gathering external tables
+12-01-2024 18:58:44	Gathering XML index compression options
+12-01-2024 18:58:44	Gathering extended properties
+12-01-2024 18:58:44	Gathering assemblies
+12-01-2024 18:58:44	Gathering credentials
+12-01-2024 18:58:44	Gathering logins
+12-01-2024 18:58:44	Gathering server audits
+12-01-2024 18:58:44	Scanning project for duplicate elements
+12-01-2024 18:58:44	Finished duplicate element processing
+12-01-2024 18:58:45	Finished importing database.
+12-01-2024 18:58:45	A summary of the import was saved to the following location: C:\DotnetProjects\EmpDB\Import Schema Logs\EmpDB_20240112012836.log
+12-01-2024 18:58:45	Click Finish to continue...
